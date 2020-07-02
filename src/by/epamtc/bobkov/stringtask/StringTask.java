@@ -1,4 +1,4 @@
-package by.epamtc.bobkov.StringTask;
+package by.epamtc.bobkov.stringtask;
 
 import java.math.BigInteger;
 import java.util.Arrays;
